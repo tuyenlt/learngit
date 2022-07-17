@@ -29,5 +29,6 @@ public:
 
 int main()
 {   cout << "dfdsfd" << endl;
+    dasdsafsa
     return 1;
 }
